@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alejolopez91
-- 👀 I’m interested in RoR, VueJS, javascript, Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in RoR, VueJS, javascript
+- 🌱 Turbo on ruby on rails 🚀
 - 📫 Email me at allejo392@gmail.com
 
 <!---
